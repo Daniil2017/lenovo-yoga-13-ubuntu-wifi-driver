@@ -1,0 +1,8 @@
+lenovo-yoga-13-ubuntu-wifi-driver
+=================================
+
+Lenovo IdeaPad Yoga 13 Ubuntu WIFI Driver
+---------------------------------
+make clean
+make
+sudo make install
